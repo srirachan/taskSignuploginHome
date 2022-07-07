@@ -1,0 +1,20 @@
+.main-container {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+.input-class {
+  margin-bottom: 15px;
+}
+.submit-button {
+  display: flex;
+  justify-content: center;
+}
